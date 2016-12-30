@@ -5,9 +5,10 @@ Remember, you can iterate through an array with a simple for loop,
 and access each member with array syntax arr[i].
 */
 
-//javascript array sort method reference -> http://www.w3schools.com/jsref/jsref_sort.asp
-// Sort values in decending order. arr[i].sort(function(a,b) {return b-a} ); 
-// First item in array (arr[0]) is now highest value
+/*
+Math.max() reference -> 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max
+*/
 
 function largestOfFour(arr) {
   
